@@ -1,0 +1,8 @@
+C:\Users\troyf\Projects\TestApi\Core\bin\Release\netcoreapp3.1\Core.deps.json
+C:\Users\troyf\Projects\TestApi\Core\bin\Release\netcoreapp3.1\Core.dll
+C:\Users\troyf\Projects\TestApi\Core\bin\Release\netcoreapp3.1\Core.pdb
+C:\Users\troyf\Projects\TestApi\Core\obj\Release\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\troyf\Projects\TestApi\Core\obj\Release\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\troyf\Projects\TestApi\Core\obj\Release\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\troyf\Projects\TestApi\Core\obj\Release\netcoreapp3.1\Core.dll
+C:\Users\troyf\Projects\TestApi\Core\obj\Release\netcoreapp3.1\Core.pdb

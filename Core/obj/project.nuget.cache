@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ir1ij2uUi7tH9o9C/Lch3pTIUGvZEhQ7zKwrVyOfAOq/aDhmvtCmtR7mtBhxbpZTcJp/+upnFW1SY7x/qgNzAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\troyf\\Projects\\TestApi\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\troyf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
