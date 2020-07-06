@@ -4965,11 +4965,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\troyf\\Projects\\TestApi\\TestApi\\TestApi.csproj",
+      "projectUniqueName": "C:\\Users\\troyf\\projects\\.net-api-testing\\TestApi\\TestApi.csproj",
       "projectName": "TestApi",
-      "projectPath": "C:\\Users\\troyf\\Projects\\TestApi\\TestApi\\TestApi.csproj",
+      "projectPath": "C:\\Users\\troyf\\projects\\.net-api-testing\\TestApi\\TestApi.csproj",
       "packagesPath": "C:\\Users\\troyf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\troyf\\Projects\\TestApi\\TestApi\\obj\\",
+      "outputPath": "C:\\Users\\troyf\\projects\\.net-api-testing\\TestApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\troyf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4985,8 +4985,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\troyf\\Projects\\TestApi\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\troyf\\Projects\\TestApi\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\troyf\\projects\\.net-api-testing\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\troyf\\projects\\.net-api-testing\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -5015,12 +5015,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -5029,7 +5023,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

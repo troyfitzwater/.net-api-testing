@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\troyf\\Projects\\TestApi\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\troyf\\projects\\.net-api-testing\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\troyf\\Projects\\TestApi\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\troyf\\projects\\.net-api-testing\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\troyf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\troyf\\Projects\\TestApi\\Core\\obj\\",
+      "outputPath": "C:\\Users\\troyf\\projects\\.net-api-testing\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\troyf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,18 +53,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

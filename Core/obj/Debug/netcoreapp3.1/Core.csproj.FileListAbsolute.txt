@@ -7,3 +7,12 @@ C:\Users\troyf\Projects\TestApi\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.c
 C:\Users\troyf\Projects\TestApi\Core\obj\Debug\netcoreapp3.1\Core.dll
 C:\Users\troyf\Projects\TestApi\Core\obj\Debug\netcoreapp3.1\Core.pdb
 C:\Users\troyf\Projects\TestApi\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\troyf\projects\.net-api-testing\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\troyf\projects\.net-api-testing\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\troyf\projects\.net-api-testing\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\troyf\projects\.net-api-testing\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\troyf\projects\.net-api-testing\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\troyf\projects\.net-api-testing\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\troyf\projects\.net-api-testing\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\troyf\projects\.net-api-testing\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\troyf\projects\.net-api-testing\Core\obj\Debug\netcoreapp3.1\Core.pdb

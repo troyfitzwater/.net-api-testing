@@ -53,6 +53,7 @@ namespace TestApi.Controllers
                 return BadRequest(ModelState);
             }
 
+            // instead of accepting a new id from the user, generate our own GUID
             quoteToAdd.Id = Guid.NewGuid();
             _context.AddQuote(quoteToAdd);
 
