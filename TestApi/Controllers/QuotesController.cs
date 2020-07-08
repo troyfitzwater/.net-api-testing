@@ -30,7 +30,7 @@ namespace TestApi.Controllers
 
         // GET: /quotes/1
         [HttpGet("{id}")]
-        public ActionResult<Quote> GetQuote(Guid id)
+        public ActionResult<Quote> GetQuote(int id)
         {
             if (!ModelState.IsValid) {
                 return BadRequest(ModelState);
@@ -54,7 +54,8 @@ namespace TestApi.Controllers
             }
 
             // instead of accepting a new id from the user, generate our own GUID
-            quoteToAdd.Id = Guid.NewGuid();
+            //quoteToAdd.Id = Guid.NewGuid();
+
             _context.AddQuote(quoteToAdd);
 
             return CreatedAtAction(nameof(GetQuote), new { id = quoteToAdd.Id }, quoteToAdd);

@@ -8,7 +8,7 @@ namespace Infrastructure.Interfaces
     public interface IQuotesData
     {
         IEnumerable<Quote> GetAll();
-        Quote GetQuote(Guid quoteId);
+        Quote GetQuote(int quoteId);
         Quote AddQuote(Quote quoteToAdd);
     }
 }

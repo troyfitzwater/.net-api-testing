@@ -5,7 +5,7 @@ namespace Core
 {
     public class Quote
     {
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         [Required]
         public string Content { get; set; }
         [Required]

@@ -12,6 +12,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
+using MySql.Data.EntityFrameworkCore.Extensions;
 using Infrastructure.Interfaces;
 
 namespace TestApi
@@ -28,9 +29,13 @@ namespace TestApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.AddDbContext<QuoteContext>(opt =>
-            //   opt.UseInMemoryDatabase("TodoList"));
-            services.AddSingleton<IQuotesData, InMemoryData>();
+            services.AddDbContext<QuoteContext>(options =>
+            {
+                options.UseMySQL(Configuration.GetConnectionString("DefaultConnection"));
+            });
+
+            //services.AddSingleton<IQuotesData, InMemoryData>();
+            services.AddScoped<IQuotesData, TestingQuotesData>();
             services.AddControllers();
         }
 
